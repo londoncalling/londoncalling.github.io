@@ -27,7 +27,7 @@ and other technologies related to
 - Plan, coordinate and host corporate wide knowledge transfers for releases
 - Plan, coordinate and host [SpotOn Learning](https://community.thoughtspot.com/category/spoton-learning-webinars-continuing-ed) webinars for ThoughtSpot Community
 - Update messages/strings and JSON files for an in-product Help app called Formula Assistant (work in developer codebase via Git / Jenkins toolchain)
-- Script, produce, and publish short tutorial [videos](https://docs.thoughtspot.com/5.0/release/videos-list.html)
+- Script, produce, and publish short tutorial videos
 - PM initiated customer visits to identify usability issues, feature requests, and ways of optimizing training
 
 ### Technical Writer - Docker, San Francisco
