@@ -10,11 +10,11 @@ featured_image: /images/demo/demo-landscape.jpg
 **February 2019 - present**
 
 - Writer on several product lines and features, including [Schema Management](https://docs.confluent.io/current/schema-registry/index.html), [Cluster Linking on Confluent Platform](https://docs.confluent.io/platform/current/multi-dc-deployments/cluster-linking/index.html), [Self-Balancing Clusters](https://docs.confluent.io/current/kafka/sbc/index.html), [Replicator](https://docs.confluent.io/current/multi-dc-deployments/replicator/replicator-quickstart.html), support for [Admin REST APIs](https://docs.confluent.io/platform/current/kafka-rest/index.html), such as helping to craft this [REST API demo](https://github.com/confluentinc/demo-scene/tree/master/adminrest), and [Kaka Basics](https://docs.confluent.io/current/kafka/kafka-basics.html).
-- Writer on these emerging Cloud features:  [Cluster Linking on Confluent Cloud](https://docs.confluent.io/cloud/current/multi-cloud/cluster-linking/index.html), [Schema Management on Cloud](https://docs.confluent.io/cloud/current/client-apps/schemas-manage.html)
+- Writer on these emerging Cloud features: [Cluster Linking on Confluent Cloud](https://docs.confluent.io/cloud/current/multi-cloud/cluster-linking/index.html), [Schema Management on Cloud](https://docs.confluent.io/cloud/current/client-apps/schemas-manage.html)
 [Schema Linking](https://docs.confluent.io/cloud/current/sr/schema-linking.html),
 [Data Lineage](https://docs.confluent.io/cloud/current/data-governance/index.html),
 and other technologies related to
-[Stream Governance]([Stream Governance](https://docs.confluent.io/cloud/current/stream-governance/index.html).
+[Stream Governance](https://docs.confluent.io/cloud/current/stream-governance/index.html).
 - Contribute to [Apache Kafka](https://kafka.apache.org/) open source documentation, and provide illustrations on some Confluent documentation.
 
 ### Technical Writer - ThoughtSpot, Palo Alto  
