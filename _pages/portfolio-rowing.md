@@ -40,5 +40,5 @@ featured_image: /images/demo/demo-landscape.jpg
 
 ### Contact
 
-- Click LinkedIn button in footer to message me through LinkedIn, or send email via the [Contact](contact.html) page.
+- Click LinkedIn button in footer to message me through LinkedIn.
 
