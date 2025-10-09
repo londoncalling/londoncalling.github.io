@@ -18,9 +18,6 @@ menu_settings:
       url: '/portfolio'
     - title: 'Rowing'
       url: '/portfolio-rowing'
-    - title: 'Contact'
-      url: '/contact'
-
 
 footer_settings:
   logo_image:
@@ -30,12 +27,6 @@ footer_settings:
 grid_settings:
   overlay_opacity: 0.8
   grid_spacing: 10
-
-contact_settings:
-  form_action: 'https://formspree.io/vicky.bialas@gmail.com'
-  confirmation_url: '/thanks'
-  email_subject: 'Contact form submission'
-  send_button_text: 'Send Message'
 
 social_settings:
   facebook_url: 'https://facebook.com/vicky.bialas'
