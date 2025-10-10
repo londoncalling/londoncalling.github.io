@@ -40,9 +40,3 @@ class: portfolio-page
 - Demo'ed stroke technique for US Olympic coach [Don Gambril](https://en.wikipedia.org/wiki/Don_Gambril) at his request for a coaching clinic in San Antonio, Texas
 - Helped swimmers with stroke technique on an ad-hoc basis
 
-<div class="contact-section">
-### Contact
-
-Click LinkedIn button in footer to message me through LinkedIn.
-</div>
-
