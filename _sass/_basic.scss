@@ -204,6 +204,19 @@ a {
 	}
 }
 
+/* More specific selectors to override any other rules */
+.single a,
+.content a,
+p a,
+li a {
+	color: #20B2AA !important;
+	font-weight: $regular-weight;
+	
+	&:hover {
+		color: #1E90FF !important;
+	}
+}
+
 .button {
 	display: inline-block;
 	padding: 9px 10px 10px;
