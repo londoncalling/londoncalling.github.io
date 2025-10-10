@@ -151,6 +151,7 @@ $grid-spacing: {{ site.data.settings.grid_settings.grid_spacing }}px;
 
 
 // - - - - - - - - - - Section styles
+// Force rebuild - link colors updated
 
 @import "_includes/_portfolio";
 @import "_includes/_portfolio-pages";
