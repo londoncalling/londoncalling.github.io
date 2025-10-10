@@ -25,8 +25,8 @@ class: portfolio-page
 
 ## Certifications and Training 
 
-- [USRowing Level II Coaching Certification](http://www.usrowing.org/coaching-education-program/) (2018)
-- Attended [Joy of Sculling Conference, 2018](http://www.thejoyofsculling.com/) - A coaching conference that, despite the name, covers both sweep and sculling, and hosts elite coaches and researchers. Last years' presenters, for example, included coaches from Harvard and Penn, and [Voelker Nolte](http://www.worldrowing.com/athletes/athlete/7978/nolte-volker), coach, rower, researcher, and author of the classic, [Rowing Faster](https://books.google.com/books/about/Rowing_Faster.html?id=-wmLeDL0MbAC)
+- [USRowing Level II Coaching Certification](https://usrowing.org/the-launch/coaching-education/core-courses/level-2) (2018)
+- Attended Joy of Sculling Conference, 2018 - A coaching conference that, despite the name, covers both sweep and sculling, and hosts elite coaches and researchers. Last years' presenters, for example, included coaches from Harvard and Penn, and [Voelker Nolte](https://worldrowing.com/athlete/7978), coach, rower, researcher, and author of the classic, [Rowing Faster](https://books.google.com/books/about/Rowing_Faster.html?id=-wmLeDL0MbAC)
 
 ## Swimming and Triathlon Background
 
@@ -39,4 +39,3 @@ class: portfolio-page
 - Competed in several sprint triathlons as an adult, along with some Masters swim meets
 - Demo'ed stroke technique for US Olympic coach [Don Gambril](https://en.wikipedia.org/wiki/Don_Gambril) at his request for a coaching clinic in San Antonio, Texas
 - Helped swimmers with stroke technique on an ad-hoc basis
-
