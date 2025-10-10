@@ -9,7 +9,7 @@ class: portfolio-page
 
 ## Professional Experience
 
-### Technical Writer - Confluent, Palo Alto  
+### Technical Writer - Confluent, Mountain View  
 
 **February 2019 - present**
 
