@@ -195,12 +195,12 @@ blockquote {
 
 a {
 	text-decoration: none;
-	color: $accent-color;
+	color: #20B2AA !important;
 	font-weight: $regular-weight;
 	@include transition(all 0.15s ease-in-out);
 
 	&:hover {
-		color: #1E90FF;
+		color: #1E90FF !important;
 	}
 }
 
