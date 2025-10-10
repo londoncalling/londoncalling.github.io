@@ -32,7 +32,7 @@
 	background: $text-light-color;
 	font-size: 17px;
 	line-height: 1;
-	color: $background-color !important;
+	color: #ffffff !important;
 
 	@include mq(tabletp) {
 		width: 40px;
@@ -45,10 +45,15 @@
 		top: 50%;
 		left: 50%;
 		@include translate(-50%,-52%);
+		color: #ffffff !important;
 	}
 
 	&:hover {
-		background: $text-dark-color !important;
-		color: $background-color !important;
+		background: #ff0066 !important;
+		color: #ffffff !important;
+		
+		svg {
+			color: #ffffff !important;
+		}
 	}
 }
