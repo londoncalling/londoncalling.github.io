@@ -3,18 +3,20 @@ title: Portfolio
 subtitle: Technical Writing
 description: technical writing, user research
 featured_image: /images/demo/demo-landscape.jpg
+layout: page
+class: portfolio-page
 ---
+
+## Professional Experience
 
 ### Technical Writer - Confluent, Palo Alto  
 
 **February 2019 - present**
 
-- Writer on several product lines and features, including [Schema Management](https://docs.confluent.io/current/schema-registry/index.html), [Cluster Linking on Confluent Platform](https://docs.confluent.io/platform/current/multi-dc-deployments/cluster-linking/index.html), [Self-Balancing Clusters](https://docs.confluent.io/current/kafka/sbc/index.html), [Replicator](https://docs.confluent.io/current/multi-dc-deployments/replicator/replicator-quickstart.html), support for [Admin REST APIs](https://docs.confluent.io/platform/current/kafka-rest/index.html), such as helping to craft this [REST API demo](https://github.com/confluentinc/demo-scene/tree/master/adminrest), and [Kaka Basics](https://docs.confluent.io/current/kafka/kafka-basics.html).
-- Writer on these emerging Cloud features: [Cluster Linking on Confluent Cloud](https://docs.confluent.io/cloud/current/multi-cloud/cluster-linking/index.html), [Schema Management on Cloud](https://docs.confluent.io/cloud/current/client-apps/schemas-manage.html)
-[Schema Linking](https://docs.confluent.io/cloud/current/sr/schema-linking.html),
-[Data Lineage](https://docs.confluent.io/cloud/current/data-governance/index.html),
-and other technologies related to
-[Stream Governance](https://docs.confluent.io/cloud/current/stream-governance/index.html).
+- Writer on several product lines and features, including [Data Governance](https://docs.confluent.io/cloud/current/stream-governance/index.html), [Cluster Linking](https://docs.confluent.io/cloud/current/multi-cloud/cluster-linking/index.html), [Confluent CLI](https://docs.confluent.io/confluent-cli/current/overview.html), and the corresponding topics for the on-prem solution, [Confluent Platform](https://docs.confluent.io/platform/current/overview.html). (Some cross-repo, shared content is used across Cloud and Platform.)
+- Highlights include: [Schema Linking](https://docs.confluent.io/cloud/current/sr/schema-linking.html), [Stream Lineage](https://docs.confluent.io/cloud/current/stream-governance/stream-lineage.html), [Stream Catalog REST API Usage Guide](https://docs.confluent.io/cloud/current/stream-governance/stream-catalog-rest-apis.html), [Schema Registry REST API Usage Guide](https://docs.confluent.io/cloud/current/sr/sr-rest-apis.html),
+and [Cluster Linking use cases and tutorials](https://docs.confluent.io/cloud/current/multi-cloud/cluster-linking/topic-data-sharing.html).
+- Review and advise on UI copy for my product areas.
 - Contribute to [Apache Kafka](https://kafka.apache.org/) open source documentation, and provide illustrations on some Confluent documentation.
 
 ### Technical Writer - ThoughtSpot, Palo Alto  
@@ -95,18 +97,18 @@ and deliverable strategy.
 - Worked with product manager to develop video tutorials and design a strategy for delivering client Help live from the Qwaq Web site.
 - Designed and developed Help guide for original products.
 
-### Earlier jobs
-- Docs Manager, Lead Writer - Devicescape (Instant802), Brisbane  2003 -  2006
-- Lead Technical Writer, UX Research - BEA Systems, Inc., San Jose  1996 – 2003
-- Technical Writer – Tandem Computers, Austin, Texas 1994 - 1996
-- Technical Writer – Tivoli Systems, Austin, Texas 1994
+## Earlier Experience
+- **Docs Manager, Lead Writer** - Devicescape (Instant802), Brisbane  2003 -  2006
+- **Lead Technical Writer, UX Research** - BEA Systems, Inc., San Jose  1996 – 2003
+- **Technical Writer** – Tandem Computers, Austin, Texas 1994 - 1996
+- **Technical Writer** – Tivoli Systems, Austin, Texas 1994
 
-### Additional writing samples
+## Additional Writing Samples
 
 - [Snapshots: Aisha's Path to Rio](https://gobair.org/Aisha-Chow-Path-to-Rio#Snapshot_Rio)
 
-### Education
+## Education
 
-- B.A. in English, The University of Texas at Austin, (with coursework in journalism, sociology, anthropology, computer science, art)
-- UCSC Extension and Foothill College (user centered design and research, C, Java, and education)
-- Udemy and other online courses on website development, data science, data visualization, and Apache Kafka
+- **B.A. in English**, The University of Texas at Austin, (with coursework in journalism, sociology, anthropology, computer science, art)
+- **UCSC Extension and Foothill College** (user centered design and research, C, Java, and education)
+- **Udemy and other online courses** on website development, data science, data visualization, and Apache Kafka

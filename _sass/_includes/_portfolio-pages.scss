@@ -1,0 +1,208 @@
+// - - - - - - - - - - - - - - - - - -
+//
+// Portfolio Pages Styling
+// Enhanced styling for portfolio content pages
+//
+// - - - - - - - - - - - - - - - - - -
+
+.portfolio-page {
+  .single {
+    h1 {
+      color: $text-dark-color;
+      font-size: $h1-small;
+      font-weight: $h1-weight;
+      letter-spacing: $h1-spacing;
+      line-height: $h1-lineheight;
+      margin-bottom: 20px;
+      text-align: center;
+      border-bottom: 3px solid $accent-color;
+      padding-bottom: 15px;
+      
+      @include mq(tabletp) {
+        font-size: $h1-medium;
+        margin-bottom: 30px;
+        padding-bottom: 20px;
+      }
+      
+      @include mq(laptop) {
+        font-size: $h1-large;
+        margin-bottom: 40px;
+        padding-bottom: 25px;
+      }
+    }
+    
+    h2 {
+      color: $text-dark-color;
+      font-size: $h2-small;
+      font-weight: $h2-weight;
+      letter-spacing: $h2-spacing;
+      line-height: $h2-lineheight;
+      margin-top: 40px;
+      margin-bottom: 20px;
+      padding-left: 0;
+      padding-right: 0;
+      position: relative;
+      
+      @include mq(tabletp) {
+        font-size: $h2-medium;
+        margin-top: 50px;
+        margin-bottom: 25px;
+      }
+      
+      @include mq(laptop) {
+        font-size: $h2-large;
+        margin-top: 60px;
+        margin-bottom: 30px;
+      }
+      
+      // Add a subtle accent line
+      &::before {
+        content: '';
+        position: absolute;
+        left: 0;
+        bottom: -8px;
+        width: 40px;
+        height: 2px;
+        background: $accent-color;
+      }
+    }
+    
+    h3 {
+      color: $text-dark-color;
+      font-size: $h3-small;
+      font-weight: $h3-weight;
+      letter-spacing: $h3-spacing;
+      line-height: $h3-lineheight;
+      margin-top: 30px;
+      margin-bottom: 15px;
+      
+      @include mq(tabletp) {
+        font-size: $h3-medium;
+        margin-top: 35px;
+        margin-bottom: 18px;
+      }
+      
+      @include mq(laptop) {
+        font-size: $h3-large;
+        margin-top: 40px;
+        margin-bottom: 20px;
+      }
+    }
+    
+    p {
+      color: $text-medium-color;
+      line-height: 1.7;
+      margin-bottom: 16px;
+      
+      @include mq(tabletp) {
+        margin-bottom: 18px;
+      }
+      
+      @include mq(laptop) {
+        margin-bottom: 20px;
+      }
+    }
+    
+    ul {
+      margin-bottom: 20px;
+      
+      @include mq(tabletp) {
+        margin-bottom: 25px;
+      }
+      
+      @include mq(laptop) {
+        margin-bottom: 30px;
+      }
+      
+      li {
+        color: $text-medium-color;
+        line-height: 1.7;
+        margin-bottom: 8px;
+        position: relative;
+        padding-left: 20px;
+        
+        &::before {
+          content: '▸';
+          color: $accent-color;
+          font-weight: bold;
+          position: absolute;
+          left: 0;
+          top: 0;
+        }
+      }
+    }
+    
+    // Enhanced link styling
+    a {
+      color: $accent-color;
+      text-decoration: none;
+      font-weight: $regular-weight;
+      border-bottom: 2px solid transparent;
+      transition: all 0.3s ease;
+      
+      &:hover {
+        color: darken($accent-color, 15%);
+        border-bottom-color: $accent-color;
+      }
+    }
+    
+    // Job title styling
+    strong {
+      color: $text-dark-color;
+      font-weight: $bold-weight;
+    }
+    
+    // Date styling
+    em {
+      color: $text-light-color;
+      font-style: normal;
+      font-weight: $regular-weight;
+      font-size: 0.9em;
+    }
+  }
+  
+  // Special styling for the rowing portfolio image
+  img {
+    border-radius: 8px;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+    margin-bottom: 20px;
+    
+    @include mq(tabletp) {
+      margin-bottom: 30px;
+    }
+    
+    @include mq(laptop) {
+      margin-bottom: 40px;
+    }
+  }
+  
+  // Contact section styling
+  .contact-section {
+    background: $background-alt-color;
+    padding: 30px;
+    border-radius: 8px;
+    margin-top: 40px;
+    border-left: 4px solid $accent-color;
+    
+    @include mq(tabletp) {
+      padding: 40px;
+      margin-top: 50px;
+    }
+    
+    @include mq(laptop) {
+      padding: 50px;
+      margin-top: 60px;
+    }
+    
+    h3 {
+      color: $text-dark-color;
+      margin-top: 0;
+      margin-bottom: 15px;
+    }
+    
+    p {
+      color: $text-medium-color;
+      margin-bottom: 0;
+    }
+  }
+}

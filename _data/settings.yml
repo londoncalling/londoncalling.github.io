@@ -58,16 +58,16 @@ social_settings:
 
 color_settings:
   background_color: '#ffffff'
-  background_alt_color: '#f4f5f6'
+  background_alt_color: '#f8f9fa'
   text_dark_color: '#ff0066'
-  text_medium_color: '#6C7A89'
-  text_light_color: '#ABB7B7'
-  accent_color: '#ff9900'
-  border_color: '#dddddd'
-  overlay_background_color: '#F2784B'
+  text_medium_color: '#5D6D7E'
+  text_light_color: '#85929E'
+  accent_color: '#20B2AA'
+  border_color: '#E8F4FD'
+  overlay_background_color: '#2C3E50'
   overlay_text_color: '#ffffff'
-  overlay_accent_color: '#2A2F36'
-  error_color: '#D64541'
+  overlay_accent_color: '#20B2AA'
+  error_color: '#E74C3C'
 
 font_settings:
   font_embed: '<link href="https://fonts.googleapis.com/css?family=Muli:300,400,600,700" rel="stylesheet">'
