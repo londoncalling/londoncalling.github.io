@@ -39,3 +39,10 @@ class: portfolio-page
 - Competed in several sprint triathlons as an adult, along with some Masters swim meets
 - Demo'ed stroke technique for US Olympic coach [Don Gambril](https://en.wikipedia.org/wiki/Don_Gambril) at his request for a coaching clinic in San Antonio, Texas
 - Helped swimmers with stroke technique on an ad-hoc basis
+
+## Charitable Giving
+- [United We Row](https://usrowing.org/united-we-row/the-vision)
+- [Row New York](https://rownewyork.org/the-mission/)
+- [Endeavor Therapeutic Horsemanship](https://www.endeavorth.org/)
+- [Val Bialas Sports Center](https://www.iloveny.com/listing/val-bialas-sports-center/6905/)
+- [Lake Placid Olympic Museum](https://lakeplacidolympicmuseum.org/)
