@@ -48,7 +48,7 @@ class: portfolio-page
 
 - (_UX Researcher_) Conducted interviews, focus groups, and usability tests at various phases of the product life cycle for both product discovery and design research objectives. Video/audio record and extract film clips for reports.
 - (_UX Researcher_) Wrote usability recommendations and blog posts to communicate research findings.
-- (_Docs Team Manager_)Managed the Gotham documentation team of 6-10 writers and interns approximately two years
+- (_Docs Team Manager_) Managed the Gotham documentation team of 6-10 writers and interns approximately two years
 - Wrote Help guides for data analysis platform, including analytical graphs for discovering relationships among objects, charts and histograms for large data sets, community tools for team-based research, mobile and video apps.
 - Contributed to administration guides for topics on both GUIs and CLIs
 - Installed, configured, and maintained my own platform instance, including multiple servers running locally and remotely, along with desktop and mobile clients.
