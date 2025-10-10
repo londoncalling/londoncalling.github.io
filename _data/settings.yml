@@ -16,7 +16,7 @@ menu_settings:
       url: '/about'
     - title: 'Portfolio'
       url: '/portfolio'
-    - title: 'Rowing'
+    - title: 'Row & Swim'
       url: '/portfolio-rowing'
 
 footer_settings:
