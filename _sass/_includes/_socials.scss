@@ -32,7 +32,7 @@
 	background: $text-light-color;
 	font-size: 17px;
 	line-height: 1;
-	color: $background-color;
+	color: $background-color !important;
 
 	@include mq(tabletp) {
 		width: 40px;
@@ -48,7 +48,7 @@
 	}
 
 	&:hover {
-		background: $accent-color;
-		color: $background-color;
+		background: $text-dark-color !important;
+		color: $background-color !important;
 	}
 }
