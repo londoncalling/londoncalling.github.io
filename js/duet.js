@@ -372,7 +372,9 @@
 
 	// - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Menu
 
-	$(document).on('click', '.js-menu-toggle', function (){
+	$(document).on('click touchstart', '.js-menu-toggle', function (e){
+		e.preventDefault();
+		e.stopPropagation();
 
 		// If already open
 		if ( $('body').hasClass('menu--open') ) {
