@@ -195,25 +195,25 @@ blockquote {
 
 a {
 	text-decoration: none;
-	color: #20B2AA !important;
+	color: #20B2AA;
 	font-weight: $regular-weight;
 	@include transition(all 0.15s ease-in-out);
 
 	&:hover {
-		color: #1E90FF !important;
+		color: #1E90FF;
 	}
 }
 
 /* More specific selectors to override any other rules */
-.single a,
-.content a,
-p a,
-li a {
-	color: #20B2AA !important;
+.single a:not(.button),
+.content a:not(.button),
+p a:not(.button),
+li a:not(.button) {
+	color: #20B2AA;
 	font-weight: $regular-weight;
 	
 	&:hover {
-		color: #1E90FF !important;
+		color: #1E90FF;
 	}
 }
 
