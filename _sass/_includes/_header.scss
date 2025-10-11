@@ -80,10 +80,12 @@
 	top: 50%;
 	right: 30px;
 	@include translate(0,-50%);
-	cursor: pointer;
+	cursor: pointer !important;
 	font-size: 15px;
 	line-height: 20px;
-	color: $text-dark-color;
+	color: $text-dark-color !important;
+	pointer-events: auto !important;
+	touch-action: manipulation !important;
 
 	@include mq(tabletp) {
 		right: 0;
@@ -100,6 +102,8 @@
 	width: 24px;
 	height: 20px;
 	margin-left: 8px;
+	pointer-events: auto !important;
+	cursor: pointer !important;
 
 	span, span:before, span:after {
 		content: '';
@@ -110,6 +114,7 @@
 		height: 3px;
 		@include transition(all 0.1s);
 		background: $text-dark-color;
+		pointer-events: none !important;
 	}
 
 	span:before {
