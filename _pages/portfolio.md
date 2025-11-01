@@ -13,10 +13,34 @@ class: portfolio-page
 
 **February 2019 - present**
 
+#### Writing Experience
+
 - Write content for several product lines and features, including [Data Governance](https://docs.confluent.io/cloud/current/stream-governance/index.html), [Cluster Linking](https://docs.confluent.io/cloud/current/multi-cloud/cluster-linking/index.html), [Confluent CLI](https://docs.confluent.io/confluent-cli/current/overview.html), and the corresponding topics for the on-prem solution, [Confluent Platform](https://docs.confluent.io/platform/current/overview.html). (Some cross-repo, shared content is used across Cloud and Platform.)
 - Highlights include: [Schema Linking](https://docs.confluent.io/cloud/current/sr/schema-linking.html), [Stream Lineage](https://docs.confluent.io/cloud/current/stream-governance/stream-lineage.html), [Stream Catalog REST API Usage Guide](https://docs.confluent.io/cloud/current/stream-governance/stream-catalog-rest-apis.html), [Schema Registry REST API Usage Guide](https://docs.confluent.io/cloud/current/sr/sr-rest-apis.html), [Cluster Linking use cases and tutorials](https://docs.confluent.io/cloud/current/multi-cloud/cluster-linking/topic-data-sharing.html), and [Monitor Cluster Metrics](https://docs.confluent.io/platform/current/multi-dc-deployments/cluster-linking/metrics.html) (sourced from code via AI).
 - Review and advise on UI copy for my product areas.
 - Contribute to [Apache Kafka](https://kafka.apache.org/) open source documentation, and provide illustrations on some Confluent documentation.
+- Contribute illustrations to support Confluent documentation topics.
+- Write key topics for our internal wiki on Docs team tools and processes.
+- Mentor new writers on Git / GitHub, Confluent product setup,  and developer toolchain.
+- Contribute to QA, bug bashes, and UX labeling and workflows on various product teams.
+- Work with Product, Engineering, Developer Experience, and Design teams.
+
+#### AI Tools and Experience
+
+Use Gemini, Cursor AI, Perplexity, and Confluent home-grown  tools for various tasks, including:
+
+- Reverse engineer response JSON to verify API structure and parameters in YAML specification files. API yaml files validation. Also, generate API documentation.
+- Reconfigure property files for ZooKeeper to KRaft migration across multiple tutorials.
+- Generate [Cluster Linking metrics](https://docs.confluent.io/platform/current/multi-dc-deployments/cluster-linking/metrics.html) documentation from source code.
+- Generate Javascript/CSS/HTML wizards to show [supported cluster combinations](https://docs.confluent.io/cloud/current/multi-cloud/cluster-linking/private-networking.html#supported-cluster-combinations).
+
+Coursework with Stanford Continuing Studies:
+
+- Demystifying AI: Insights from the Stanford Institute for Human-Centered Artificial Intelligence, instructor: [Nestor Maslej](https://profiles.stanford.edu/nestor-maslej).
+- [A crash course in Artificial Intelligence (AI)](https://continuingstudies.stanford.edu/artificial-intelligence-crash-course-spring-2025), professor: [Ronjon Nag](https://profiles.stanford.edu/ronjon-nag). 
+
+
+
 
 ### Technical Writer - ThoughtSpot, Palo Alto  
 
