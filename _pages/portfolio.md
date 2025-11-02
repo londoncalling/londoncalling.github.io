@@ -13,10 +13,10 @@ Senior Technical Writer and Content Designer with 15+ years of experience delive
 
 #### AI/ML Expertise & Tools
 
-Use Gemini, Cursor AI, Perplexity, and Confluent home-grown  tools for various tasks, including:
+Use Gemini, Cursor AI, Perplexity, Glean, and Confluent home-grown  tools for various tasks, including:
 
 - Reverse engineer response JSON to verify API structure and parameters in YAML specification files. API yaml files validation. Also, generate API documentation.
-- Reconfigure property files for ZooKeeper to KRaft migration across multiple tutorials.
+- Reconfigure property files for ZooKeeper to KRaft migration across multiple tutorials for [Multi-Datacenter products](https://docs.confluent.io/platform/current/multi-dc-deployments/index.html) and [Data Governance](https://docs.confluent.io/platform/current/schema-registry/index.html).
 - Generate [Cluster Linking metrics](https://docs.confluent.io/platform/current/multi-dc-deployments/cluster-linking/metrics.html) documentation from source code.
 - Generate Javascript/CSS/HTML wizards to show [supported cluster combinations](https://docs.confluent.io/cloud/current/multi-cloud/cluster-linking/private-networking.html#supported-cluster-combinations).
 
@@ -84,8 +84,8 @@ Coursework with Stanford Continuing Studies:
 
 
 ## Earlier Experience
-- **Senior Technical Writer** - ArcSight, Cupertino
-- **Technical Writer (consultant)** - Teleplace ([OpenQwaq](http://code.google.com/p/openqwaq/)), Palo Alto
+- **Senior Technical Writer** - ArcSight, Cupertino  2006 - 2010
+- **Technical Writer (consultant)** - Teleplace ([OpenQwaq](http://code.google.com/p/openqwaq/)), Palo Alto  2006 - 2009
 - **Docs Manager, Lead Writer** - Devicescape (Instant802), Brisbane  2003 -  2006
 - **Lead Technical Writer, UX Research** - BEA Systems, Inc., San Jose  1996 – 2003
 - **Technical Writer** – Tandem Computers, Austin, Texas 1994 - 1996
