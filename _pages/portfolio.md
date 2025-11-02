@@ -9,7 +9,7 @@ class: portfolio-page
 
 ## Abstract
 
-Senior Technical Writer and Content Designer with 15+ years of experience delivering developer documentation ( Kafka, Docker, Palantir, and more).  Proven ability to leverage and document generative AI/LLM tools to support content development and source code validation. Seeking to use my expertise in content strategy, information architecture, and user-centered design at a fast-growing AI startup.
+Senior Technical Writer and Content Designer with 15+ years of experience delivering developer documentation ( Kafka, Docker, Palantir, and more).  Proven ability to leverage and document generative AI/LLM tools to support content development and source code validation. Seeking to drive  content strategy, information architecture, and user-centered design for a high-growth AI/ML product.
 
 #### AI/ML Expertise & Tools
 
