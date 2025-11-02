@@ -1,6 +1,6 @@
 ---
 title: Portfolio
-subtitle: Technical Writing
+subtitle: Technical Writing, Content Strategy and Design
 description: technical writing, user research
 featured_image: /images/demo/demo-landscape.jpg
 layout: page
