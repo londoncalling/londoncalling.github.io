@@ -7,6 +7,25 @@ layout: page
 class: portfolio-page
 ---
 
+## Abstract
+
+Senior Technical Writer and Content Designer with 15+ years of experience delivering developer documentation ( Kafka, Docker, Palantir, and more).  Proven ability to leverage and document generative AI/LLM tools to support content development and source code validation. Seeking to use my expertise in content strategy, information architecture, and user-centered design at a fast-growing AI startup.
+
+#### AI/ML Expertise & Tools
+
+Use Gemini, Cursor AI, Perplexity, and Confluent home-grown  tools for various tasks, including:
+
+- Reverse engineer response JSON to verify API structure and parameters in YAML specification files. API yaml files validation. Also, generate API documentation.
+- Reconfigure property files for ZooKeeper to KRaft migration across multiple tutorials.
+- Generate [Cluster Linking metrics](https://docs.confluent.io/platform/current/multi-dc-deployments/cluster-linking/metrics.html) documentation from source code.
+- Generate Javascript/CSS/HTML wizards to show [supported cluster combinations](https://docs.confluent.io/cloud/current/multi-cloud/cluster-linking/private-networking.html#supported-cluster-combinations).
+
+Coursework with Stanford Continuing Studies:
+
+- Demystifying AI: Insights from the Stanford Institute for Human-Centered Artificial Intelligence, instructor: [Nestor Maslej](https://profiles.stanford.edu/nestor-maslej).
+- [A crash course in Artificial Intelligence (AI)](https://continuingstudies.stanford.edu/artificial-intelligence-crash-course-spring-2025), professor: [Ronjon Nag](https://profiles.stanford.edu/ronjon-nag). 
+
+
 ## Professional Experience
 
 ### Technical Writer - Confluent, Mountain View  
@@ -25,28 +44,11 @@ class: portfolio-page
 - Contribute to QA, bug bashes, and UX labeling and workflows on various product teams.
 - Work with Product, Engineering, Developer Experience, and Design teams.
 
-#### AI Tools and Experience
-
-Use Gemini, Cursor AI, Perplexity, and Confluent home-grown  tools for various tasks, including:
-
-- Reverse engineer response JSON to verify API structure and parameters in YAML specification files. API yaml files validation. Also, generate API documentation.
-- Reconfigure property files for ZooKeeper to KRaft migration across multiple tutorials.
-- Generate [Cluster Linking metrics](https://docs.confluent.io/platform/current/multi-dc-deployments/cluster-linking/metrics.html) documentation from source code.
-- Generate Javascript/CSS/HTML wizards to show [supported cluster combinations](https://docs.confluent.io/cloud/current/multi-cloud/cluster-linking/private-networking.html#supported-cluster-combinations).
-
-Coursework with Stanford Continuing Studies:
-
-- Demystifying AI: Insights from the Stanford Institute for Human-Centered Artificial Intelligence, instructor: [Nestor Maslej](https://profiles.stanford.edu/nestor-maslej).
-- [A crash course in Artificial Intelligence (AI)](https://continuingstudies.stanford.edu/artificial-intelligence-crash-course-spring-2025), professor: [Ronjon Nag](https://profiles.stanford.edu/ronjon-nag). 
-
-
-
-
 ### Technical Writer - ThoughtSpot, Palo Alto  
 
 **November 2017 - February 2019**
 
-- Managed the documentation and build infrastructure for [docs.thoughtspot.com](https://docs.thoughtspot.com/home), onboarded/trained new writers on Git, GitHub, Jekyll, Markdown, and our specific workflows for documentation
+- Managed the documentation build infrastructure (Git, GitHub, Jekyll, Markdown), ensuring 99.9% uptime and enabling the  writing team to execute a winning  content strategy [docs.thoughtspot.com](https://docs.thoughtspot.com/home). Onboard/trained new writers on tools and workflows.
 - Wrote new and updated documentation topics, including Using Custom R Scripts in ThoughtSpot, how to run ThoughtSpot on VM and cloud platforms, downloads and setup of supported drivers for database connectivity, search bar keyword reference (including publishing keyword translations in several languages with include files), formulas and formulas reference, experimented with new dataset samples for topics such as SpotIQ, and much more.
 - Developed ideas for docs initiatives and improvements, and defined documentation architecture
 - Plannned, coordinated, and hosted corporate wide knowledge transfers for releases
@@ -70,8 +72,7 @@ Coursework with Stanford Continuing Studies:
 
 **July 2010 – September 2015**
 
-- (_UX Researcher_) Conducted interviews, focus groups, and usability tests at various phases of the product life cycle for both product discovery and design research objectives. Video/audio record and extract film clips for reports.
-- (_UX Researcher_) Wrote usability recommendations and blog posts to communicate research findings.
+- (_UX Researcher_) (UX Researcher) Conducted 20+ in-depth user interviews and  usability tests in a broad range of domains, directly informing UI text, flow, Help content, and documentation. This work supported product discovery, user experience improvement,  and  feature adoption. Video/audio recorded  and extracted film clips for reports. Wrote usability 
 - (_Docs Team Manager_) Managed the Gotham documentation team of 6-10 writers and interns approximately two years
 - Wrote Help guides for data analysis platform, including analytical graphs for discovering relationships among objects, charts and histograms for large data sets, community tools for team-based research, mobile and video apps.
 - Contributed to administration guides for topics on both GUIs and CLIs
@@ -81,46 +82,10 @@ Coursework with Stanford Continuing Studies:
 - Managed documentation build system, templates, integration points with internal tools and product builds, documentation web site publishing at release time, and related procedures and tracking on Wiki.
 - Managed Gotham Docs team for year of 2012.
 
-### Senior Technical Writer- ArcSight, Cupertino
-
-**July 2006 – June 2010**
-
-- Designed, planned, wrote, and implemented Help systems for Web UIs and Java Swing consoles for enterprise security software products (data collection, analysis, reporting, network monitoring). Researched and wrote new topics, including trends and reporting; queries, filters, and rules; and event flow monitoring, tracking, and investigation.
-- Installed, configured, and maintained my own instances of Oracle DB, server, and clients.
-- Pitched in to write topics for log management products during crunches.
-- Wrote labels and screen text on wizards; drove re-design of some elements on the console
-- Contributed to UI design reviews, workflow design, and bug logging.
-- Planned and implemented new production and deployment model for Help systems.
-using different tools. Developed templates and usage guide, demo’ed and got
-buy-in from Development, QA, Build, and Docs teams. Held workshops for all
-groups and provided guidelines for adoption of the new system (e.g., template
-workshops, details on mapping strategy in new model for context-sensitive UIs to
-Help IDs).
-- Initiated new project to publish product docs on a collaborative portal. Worked
-with multiple departments to integrate Docs with community site for information
-sharing and solutions exchange. Tested various community platforms (Jive, Group
-Swim) and Wikis (MediaWiki, MoinMoinWiki, Confluence Wiki). Worked as part of a
-small team to develop Docs portal examples for demos and trials. The portal used
-the same templates and build infrastructure as the new Help system, and both
-worked with the build automation and publishing system developed by another
-writer on the team.
-
-### Technical Writer (consultant) - Teleplace ([OpenQwaq](http://code.google.com/p/openqwaq/)), Palo Alto
-
-**July 2006 – May 2009**
-
-- Kick-started product Help for Qwaq, a small startup in the 3D collaboration
-space with a business focus (rather than social).
-- Met with developers at an early stage in the product life cycle to plan appropriate documentation focus
-and deliverable strategy.
-- Set up Docs infrastructure, chose tools, and developed guidelines for process and reviews (on internal Wiki). Wrote from scratch Help and user Docs for Qwaq Forums.
-- Met with developers and customers in Forums to brainstorm, get feedback, and identify useful samples.
-- Contributed to testing and UI design reviews.
-- Wrote topics for a Forums administrator guide.
-- Worked with product manager to develop video tutorials and design a strategy for delivering client Help live from the Qwaq Web site.
-- Designed and developed Help guide for original products.
 
 ## Earlier Experience
+- **Senior Technical Writer** - ArcSight, Cupertino
+- **Technical Writer (consultant)** - Teleplace ([OpenQwaq](http://code.google.com/p/openqwaq/)), Palo Alto
 - **Docs Manager, Lead Writer** - Devicescape (Instant802), Brisbane  2003 -  2006
 - **Lead Technical Writer, UX Research** - BEA Systems, Inc., San Jose  1996 – 2003
 - **Technical Writer** – Tandem Computers, Austin, Texas 1994 - 1996
