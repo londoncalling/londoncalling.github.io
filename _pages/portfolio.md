@@ -84,12 +84,12 @@ Coursework with Stanford Continuing Studies:
 
 
 ## Earlier Experience
-- **Senior Technical Writer** - ArcSight, Cupertino  2006 - 2010
-- **Technical Writer (consultant)** - Teleplace ([OpenQwaq](http://code.google.com/p/openqwaq/)), Palo Alto  2006 - 2009
-- **Docs Manager, Lead Writer** - Devicescape (Instant802), Brisbane  2003 -  2006
-- **Lead Technical Writer, UX Research** - BEA Systems, Inc., San Jose  1996 – 2003
-- **Technical Writer** – Tandem Computers, Austin, Texas 1994 - 1996
-- **Technical Writer** – Tivoli Systems, Austin, Texas 1994
+- **Senior Technical Writer** - ArcSight, Cupertino
+- **Technical Writer (consultant)** - Teleplace ([OpenQwaq](http://code.google.com/p/openqwaq/)), Palo Alto
+- **Docs Manager, Lead Writer** - Devicescape (Instant802), Brisbane
+- **Lead Technical Writer, UX Research** - BEA Systems, Inc., San Jose
+- **Technical Writer** – Tandem Computers, Austin, Texas
+- **Technical Writer** – Tivoli Systems, Austin, Texas
 
 ## Additional Writing Samples
 
