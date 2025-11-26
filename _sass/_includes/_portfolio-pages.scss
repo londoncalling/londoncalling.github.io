@@ -91,9 +91,8 @@
     }
     
     // Light shaded blocks for Professional Experience job entries
-    // Style h3 job titles that have content following them
-    h3:has(+ p),
-    h3:has(+ ul) {
+    // Style h3 job titles and all their content until the next h3 or h2
+    h3 {
       background: $background-alt-color;
       padding: 20px 25px 15px;
       border-radius: 8px 8px 0 0;
@@ -108,67 +107,92 @@
       }
     }
     
-    // Style paragraphs and lists that immediately follow h3 job entries
-    h3 + p,
-    h3 + ul {
+    // Style all content that follows h3 (p, ul, h4) until next h3/h2
+    h3 ~ p,
+    h3 ~ ul,
+    h3 ~ h4 {
       background: $background-alt-color;
-      padding: 0 25px 20px;
-      margin-top: 0;
-      margin-bottom: 30px;
-      
-      @include mq(tabletp) {
-        padding: 0 30px 25px;
-        margin-bottom: 35px;
-      }
-      
-      @include mq(laptop) {
-        padding: 0 35px 30px;
-        margin-bottom: 40px;
-      }
-    }
-    
-    // Continue the shaded block for subsequent paragraphs and lists
-    h3 + p + p,
-    h3 + p + ul,
-    h3 + ul + p,
-    h3 + ul + ul {
-      background: $background-alt-color;
-      padding: 0 25px 20px;
+      padding-left: 25px;
+      padding-right: 25px;
+      padding-top: 0;
+      padding-bottom: 15px;
       margin-top: 0;
       margin-bottom: 0;
       
       @include mq(tabletp) {
-        padding: 0 30px 25px;
+        padding-left: 30px;
+        padding-right: 30px;
+        padding-bottom: 18px;
       }
       
       @include mq(laptop) {
-        padding: 0 35px 30px;
+        padding-left: 35px;
+        padding-right: 35px;
+        padding-bottom: 20px;
       }
     }
     
-    // Add rounded bottom corners to the last element before next h3 or h2
-    h3 + p:last-of-type,
-    h3 + ul:last-of-type,
-    h3 + p + p:last-of-type,
-    h3 + p + ul:last-of-type {
-      border-radius: 0 0 8px 8px;
-    }
-    
-    // Ensure h4s inside content blocks maintain spacing
-    h4 {
-      margin-top: 20px;
-      margin-bottom: 15px;
+    // Style h4s with top padding
+    h3 ~ h4 {
+      padding-top: 20px;
+      padding-bottom: 15px;
       
       @include mq(tabletp) {
-        margin-top: 25px;
-        margin-bottom: 18px;
+        padding-top: 25px;
+        padding-bottom: 18px;
+      }
+      
+      @include mq(laptop) {
+        padding-top: 30px;
+        padding-bottom: 20px;
       }
     }
     
-    // Keep h4 content within the shaded block
-    h4 + p,
-    h4 + ul {
-      padding-top: 0;
+    // Lists need more bottom padding
+    h3 ~ ul {
+      padding-bottom: 20px;
+      
+      @include mq(tabletp) {
+        padding-bottom: 25px;
+      }
+      
+      @include mq(laptop) {
+        padding-bottom: 30px;
+      }
+    }
+    
+    // Stop the background at next h3 or h2
+    h3 ~ h3,
+    h3 ~ h2 {
+      background: transparent;
+      padding: 0;
+      margin-top: 40px;
+      border-radius: 0;
+    }
+    
+    // Add spacing between job blocks
+    h3 ~ h3,
+    h3 ~ h2 {
+      margin-top: 40px;
+    }
+    
+    // Add bottom padding/margin to the last list in each job block
+    // Note: This is approximate - perfect bottom rounding requires JS or different HTML structure
+    h3 ~ ul {
+      &:last-of-type {
+        padding-bottom: 20px;
+        margin-bottom: 30px;
+        
+        @include mq(tabletp) {
+          padding-bottom: 25px;
+          margin-bottom: 35px;
+        }
+        
+        @include mq(laptop) {
+          padding-bottom: 30px;
+          margin-bottom: 40px;
+        }
+      }
     }
     
     p {
@@ -289,4 +313,5 @@
     }
   }
 }
+
 
