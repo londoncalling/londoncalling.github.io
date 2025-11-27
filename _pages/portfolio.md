@@ -28,7 +28,7 @@ Coursework with Stanford Continuing Studies:
 
 ## Professional Experience
 
-<h3 class="job-highlight">Technical Writer - Confluent, Mountain View</h3>  
+### Technical Writer - Confluent, Mountain View  
 
 **February 2019 - present**
 
