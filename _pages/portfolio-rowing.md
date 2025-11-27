@@ -34,7 +34,7 @@ class: portfolio-page
 - Held an age group national record (9-10 yr olds) in 110 yd butterfly, and ranked top 10 in the US in several age group events at various times
 - Texas high school state champion, 100 yd butterfly
 - Won honors and broke records in Mexico City in the annual Texas-Mexico swim competition
-- Swam for teams in Puerto Rico, London (Watford), Texas, and Southern California (LA Athletic Club, Rosemead Swimming Club), and competed internationally
+- Swam for teams in Puerto Rico, London (Watford), New York, Texas, and Southern California (LA Athletic Club, Rosemead Swimming Club), and competed internationally
 - Competed in open water swimming events (1 to 3 miles) as an age grouper, and later Masters
 - Competed in several sprint triathlons as an adult, along with some Masters swim meets
 - Demo'ed stroke technique for US Olympic coach [Don Gambril](https://en.wikipedia.org/wiki/Don_Gambril) at his request for a coaching clinic in San Antonio, Texas
