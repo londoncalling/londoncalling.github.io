@@ -28,8 +28,6 @@ Coursework with Stanford Continuing Studies:
 
 ## Professional Experience
 
-<div class="job-block">
-
 ### Technical Writer - Confluent, Mountain View  
 
 **February 2019 - present**
@@ -46,10 +44,6 @@ Coursework with Stanford Continuing Studies:
 - Contribute to QA, bug bashes, and UX labeling and workflows on various product teams.
 - Work with Product, Engineering, Developer Experience, and Design teams.
 
-</div>
-
-<div class="job-block">
-
 ### Technical Writer - ThoughtSpot, Palo Alto  
 
 **November 2017 - February 2019**
@@ -63,10 +57,6 @@ Coursework with Stanford Continuing Studies:
 - Scripted, produced, and published short tutorial videos
 - Participated in product manager (PM) initiated customer visits to identify usability issues, feature requests, and ways of optimizing training. Wrote reports based on these customer visits.
 
-</div>
-
-<div class="job-block">
-
 ### Technical Writer - Docker, San Francisco
 
 **October 2015 - November 2017**
@@ -77,10 +67,6 @@ Coursework with Stanford Continuing Studies:
 * Wrote documentation in Markdown, and built with GitHub/Docker/Hugo toolchain, later Jekyll
 * Coordinated documentation topics with training and samples developers
 * Docker for Mac and Windows have more than 1M active users to date, and have become the 2nd monetized product at Docker with Docker Desktop Enterprise. I designed and wrote the documentation from scratch as products were in initial development, working closely with design and development teams and helping usability test prototypes.
-
-</div>
-
-<div class="job-block">
 
 ### Technical Writer, Docs Manager, UX Researcher - Palantir, Palo Alto
 
@@ -95,8 +81,6 @@ Coursework with Stanford Continuing Studies:
 - Worked with Android SDK (Eclipse+Android plugin), first to build my own `.apk` from the developer codebase, and then experimented with adding mobile Help to the project
 - Managed documentation build system, templates, integration points with internal tools and product builds, documentation web site publishing at release time, and related procedures and tracking on Wiki.
 - Managed Gotham Docs team for year of 2012.
-
-</div>
 
 
 ## Earlier Experience
