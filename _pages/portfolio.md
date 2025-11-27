@@ -28,9 +28,7 @@ Coursework with Stanford Continuing Studies:
 
 ## Professional Experience
 
-<div class="job-highlight">
-
-### Technical Writer - Confluent, Mountain View  
+<h3 class="job-highlight">Technical Writer - Confluent, Mountain View</h3>  
 
 **February 2019 - present**
 
@@ -45,8 +43,6 @@ Coursework with Stanford Continuing Studies:
 - Mentor new writers on Git / GitHub, Confluent product setup,  and developer toolchain.
 - Contribute to QA, bug bashes, and UX labeling and workflows on various product teams.
 - Work with Product, Engineering, Developer Experience, and Design teams.
-
-</div>
 
 ### Technical Writer - ThoughtSpot, Palo Alto  
 
