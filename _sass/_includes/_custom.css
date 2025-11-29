@@ -1,0 +1,21 @@
+/* Custom CSS for Shaded Experience Boxes */
+.experience-box {
+    /* Choose a background color that is slightly different from the page background */
+    background-color: #f5f5f5;
+    
+    /* Add padding inside the box */
+    padding: 20px 25px;
+    
+    /* Add space below each box */
+    margin-bottom: 30px;
+    
+    /* Optional: Add a subtle border and rounded corners */
+    border: 1px solid #e0e0e0;
+    border-radius: 5px;
+}
+
+/* Optional: Adjust the heading inside the box to look cleaner */
+.experience-box h2, .experience-box h3 {
+    margin-top: 0;
+    padding-top: 0;
+}
