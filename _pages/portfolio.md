@@ -27,7 +27,7 @@ Coursework with Stanford Continuing Studies:
 
 
 ## Professional Experience
-<div class="experience-box">
+
 ### Technical Writer - Confluent, Mountain View  
 
 **February 2019 - present**
@@ -43,9 +43,7 @@ Coursework with Stanford Continuing Studies:
 - Mentor new writers on Git / GitHub, Confluent product setup,  and developer toolchain.
 - Contribute to QA, bug bashes, and UX labeling and workflows on various product teams.
 - Work with Product, Engineering, Developer Experience, and Design teams.
-</div>
 
-<div class="experience-box">
 ### Technical Writer - ThoughtSpot, Palo Alto  
 
 **November 2017 - February 2019**
@@ -58,9 +56,7 @@ Coursework with Stanford Continuing Studies:
 - Updated messages/strings and JSON files for an in-product Help app called Formula Assistant (worked in developer codebase via Git / Jenkins toolchain)
 - Scripted, produced, and published short tutorial videos
 - Participated in product manager (PM) initiated customer visits to identify usability issues, feature requests, and ways of optimizing training. Wrote reports based on these customer visits.
-</div>
 
-<div class="experience-box">
 ### Technical Writer - Docker, San Francisco
 
 **October 2015 - November 2017**
@@ -71,9 +67,7 @@ Coursework with Stanford Continuing Studies:
 * Wrote documentation in Markdown, and built with GitHub/Docker/Hugo toolchain, later Jekyll
 * Coordinated documentation topics with training and samples developers
 * Docker for Mac and Windows have more than 1M active users to date, and have become the 2nd monetized product at Docker with Docker Desktop Enterprise. I designed and wrote the documentation from scratch as products were in initial development, working closely with design and development teams and helping usability test prototypes.
-</div>
 
-<div class="experience-box">
 ### Technical Writer, Docs Manager, UX Researcher - Palantir, Palo Alto
 
 **July 2010 – September 2015**
@@ -87,9 +81,8 @@ Coursework with Stanford Continuing Studies:
 - Worked with Android SDK (Eclipse+Android plugin), first to build my own `.apk` from the developer codebase, and then experimented with adding mobile Help to the project
 - Managed documentation build system, templates, integration points with internal tools and product builds, documentation web site publishing at release time, and related procedures and tracking on Wiki.
 - Managed Gotham Docs team for year of 2012.
-</div>
 
-<div class="experience-box">
+
 ## Earlier Experience
 - **Senior Technical Writer** - ArcSight, Cupertino
 - **Technical Writer (consultant)** - Teleplace ([OpenQwaq](http://code.google.com/p/openqwaq/)), Palo Alto
@@ -97,7 +90,6 @@ Coursework with Stanford Continuing Studies:
 - **Lead Technical Writer, UX Research** - BEA Systems, Inc., San Jose
 - **Technical Writer** – Tandem Computers, Austin, Texas
 - **Technical Writer** – Tivoli Systems, Austin, Texas
-</div>
 
 ## Additional Writing Samples
 
