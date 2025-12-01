@@ -1,0 +1,33 @@
+/* --- FIX: Guaranteed Horizontal Display --- */
+
+/* Targets the new container for Flexbox layout */
+.social-icons-container {
+    display: flex !important;           /* Forces all children to be horizontal */
+    justify-content: center !important; /* Centers the block of icons */
+    padding: 0 !important;              /* Removes padding that spaces bullets */
+    margin: 0 auto !important;          /* Centers the container horizontally */
+}
+
+/* Adds spacing between the individual icons */
+.social-icon-wrapper {
+    margin: 0 10px !important;
+    padding: 0 !important;
+}
+
+/* FIX: Force icons to be visible and sized */
+.social-icon-wrapper a i {
+    font-size: 24px !important; /* Makes the icon visible */
+    color: #FFFFFF !important; /* Sets the icon color (assuming black background) */
+}
+
+/* Ensure spacing between the icon wrappers */
+.social-icons-container .social-icon-wrapper {
+    margin: 0 12px !important; 
+}
+
+/* FIX: Ensure site title has left padding in the footer */
+.footer__title {
+    padding-left: 20px !important;
+    /* Add margin to separate it from the screen edge */
+    margin-left: 10px !important; 
+}
