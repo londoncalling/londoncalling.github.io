@@ -24,10 +24,3 @@
 .social-icons-container .social-icon-wrapper {
     margin: 0 12px !important; 
 }
-
-/* FIX: Ensure site title has left padding in the footer */
-.footer__title {
-    padding-left: 20px !important;
-    /* Add margin to separate it from the screen edge */
-    margin-left: 10px !important; 
-}

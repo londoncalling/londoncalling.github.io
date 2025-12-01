@@ -3,10 +3,11 @@
     {% for pair in site.data.settings.social_settings %}
       {% assign service = pair[0] %}
       {% assign url = pair[1] %}
-      {% if url %}
+      {% if url != '' and url != blank %}
+        {% assign icon_name = service | remove: '_url' | downcase %}
         <span class="social-icon-wrapper">
-          <a href="{{ url }}" target="_blank" title="{{ service | capitalize }}">
-            <i class="fa fa-{{ url[0] | replace: 'facebook', 'facebook-f' | remove: '_url' }}" aria-hidden="true"></i>
+          <a href="{{ url }}" target="_blank" title="{{ service | capitalize | remove: '_url' }}">
+            <i class="fa-brands fa-{{ icon_name }}" aria-hidden="true"></i>
           </a>
         </span>
       {% endif %}
