@@ -13,8 +13,9 @@ Senior Technical Writer and Content Designer with 15+ years of experience delive
 
 #### AI/ML Expertise & Tools
 
-Use Gemini, Cursor AI, Perplexity, Glean, and Confluent home-grown  tools for various tasks, including:
+Use Gemini, Claude Code, Cursor AI, Perplexity, Glean, and Confluent home-grown  tools for various tasks, including:
 
+- Create and use Claude Skills for documentation workflows.
 - Reverse engineer response JSON to verify API structure and parameters in YAML specification files. API yaml files validation. Also, generate API documentation.
 - Reconfigure property files for ZooKeeper to KRaft migration across multiple tutorials for [Multi-Datacenter products](https://docs.confluent.io/platform/current/multi-dc-deployments/index.html) and [Data Governance](https://docs.confluent.io/platform/current/schema-registry/index.html).
 - Generate [Cluster Linking metrics](https://docs.confluent.io/platform/current/multi-dc-deployments/cluster-linking/metrics.html) documentation from source code.
